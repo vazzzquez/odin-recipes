@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: #aaad89;
+}
+img{
+    height: 300px;
+    width: auto;
+    filter: grayscale(100%);
+    list-style-position: inside;
+}
+
+.txtrecipe{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+.header{
+    text-align: center;
+}
+.recipe{
+    filter: none;
+}
+a:link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #8c0615;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  ul{
+    list-style-type: none;
+  }
